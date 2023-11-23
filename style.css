@@ -1,0 +1,21 @@
+/* global setting */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: #000;
+    color: #fff;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  .lg {
+    font-size: 1.5rem;
+  }
