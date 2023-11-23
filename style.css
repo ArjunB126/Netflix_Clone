@@ -222,3 +222,43 @@
     top: 50px;
     left: 120px;
   }
+
+
+  /* faq list */
+  .faq {
+    border-bottom: 10px solid #333;
+  }
+  
+  .faq .inner-container {
+    line-height: 1.5;
+    margin: 2rem 0;
+  }
+  
+  .faq .inner-title {
+    text-align: center;
+  }
+  .faq h1 {
+    margin-bottom: 5rem;
+  }
+  
+  .faq h2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+  }
+  
+  .faq ul {
+    width: 60%;
+    margin: auto;
+  }
+  
+  .faq li {
+    border-bottom: 5px solid #000;
+    background: #333;
+    cursor: pointer;
+  }
+  
+  .faq li.show i {
+    transform: rotate(45deg);
+  }
+  
