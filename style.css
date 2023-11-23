@@ -45,3 +45,29 @@
   .btn-lg:hover {
     background: #fd1c27;
   }
+
+  
+  /* inner container title and text style */
+  
+  .inner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    line-height: 1.25;
+  }
+  .inner-title {
+    font-size: 1.8rem;
+    width: 90%;
+  }
+  
+  .inner-title h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .inner-text {
+    font-size: 1.5rem;
+    width: 90%;
+  }
