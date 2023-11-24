@@ -545,6 +545,25 @@
     }
   }
 
+  @media (max-width: 375px) {
+    .inner-title {
+      font-size: 1rem;
+    }
+    .inner-text {
+      font-size: 1rem;
+    }
+  
+    /* header */
+  
+    .header .inner-title {
+      width: 90%;
+    }
+    .header .inner-text {
+      width: 90%;
+    }
+
+    
+  }
   
 
 
