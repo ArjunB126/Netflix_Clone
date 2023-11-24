@@ -345,3 +345,105 @@
   footer .dropdown-list ul.show {
     display: block;
   }
+
+  /* large-screen*/
+  
+  @media (max-width: 950px) {
+    /* global setting */
+  
+    /* button */
+    .btn-lg {
+      padding: 10px 12.5px;
+      font-size: 15px;
+      text-align: center;
+      margin: 10px auto;
+    }
+  
+    /* text style */
+  
+    .inner-title {
+      font-size: 1.6rem;
+      text-align: center;
+      width: 100%;
+    }
+  
+    .inner-text {
+      font-size: 1.2rem;
+      width: 100%;
+      text-align: center;
+    }
+  
+    /* email form */
+    .email-form .get-started {
+      padding-top: 1rem;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .email-form .get-started > input {
+      padding: 1rem;
+      font-size: 1.1rem;
+    }
+  
+    /* nav logo */
+    .logo > img {
+      width: 120px;
+    }
+  
+    /* header */
+    .header {
+      height: 100%;
+    }
+  
+    .header .inner-title {
+      width: 70%;
+    }
+  
+    /* showcase */
+    .showcase-container {
+      flex-direction: column;
+      width: 90%;
+    }
+  
+    .showcase-img {
+      display: flex;
+      justify-content: center;
+    }
+  
+    .showcase-animation {
+      left: 180px;
+      top: 95px;
+      z-index: -1;
+    }
+  
+    .case2 .showcase-img {
+      order: 2;
+    }
+  
+    .case3 .showcase-animation {
+      top: 50px;
+      left: 218px;
+    }
+  
+    /* faq list */
+    .faq ul {
+      width: 90%;
+      margin: auto;
+    }
+  
+    .faq h2 {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.5rem 1rem;
+      font-size: 1.2rem;
+    }
+  
+    /* footer */
+    footer {
+      width: 90%;
+    }
+  
+    footer .language {
+      width: 20%;
+    }
+  }
