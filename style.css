@@ -276,3 +276,11 @@
   .faq .inner-text {
     margin-top: 2rem;
   }
+
+  /* show list item */
+  .faq li.show p {
+    max-height: 700px;
+    position: relative;
+    visibility: visible;
+  }
+  
