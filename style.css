@@ -561,8 +561,23 @@
     .header .inner-text {
       width: 90%;
     }
+        /* showcase */
+        .case1 .showcase-animation {
+          width: 250px;
+          left: 45px;
+          top: 50px;
+        }
+      
+        .case3 .showcase-animation {
+          width: 210px;
+          left: 60px;
+          top: -25px;
+        }
+        .downloading {
+          top: 180px;
+          left: 66px;
+        }
 
-    
   }
   
 
