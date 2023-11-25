@@ -6,6 +6,6 @@ languageDropdown.addEventListener("click", () => {
   })
 
   faqListItem.forEach((item) => {
-    item.addEventListener("click"
+    item.addEventListener("click", (e) => {
     })
   })
