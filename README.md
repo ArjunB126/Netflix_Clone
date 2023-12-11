@@ -25,3 +25,7 @@ This project is a Netflix clone created with HTML and CSS. It aims to replicate 
 
 ## Usage
  You can interact with the interface just like you would on the actual Netflix website. Feel free to customize and enhance the project according to your preferences.
+
+ ## Technologies Used
+- HTML
+- CSS
