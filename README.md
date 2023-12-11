@@ -19,4 +19,6 @@ This project is a Netflix clone created with HTML and CSS. It aims to replicate 
 
 ## Installation
 1. Clone the repository
+2. Navigate to the project directory
+
 
