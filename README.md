@@ -16,3 +16,7 @@ This project is a Netflix clone created with HTML and CSS. It aims to replicate 
 - Responsive design for various screen sizes.
 - Dummy data showcasing a variety of movies and TV shows.
 - User-friendly navigation and layout similar to Netflix.
+
+## Installation
+1. Clone the repository
+
