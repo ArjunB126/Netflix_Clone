@@ -29,3 +29,5 @@ This project is a Netflix clone created with HTML and CSS. It aims to replicate 
  ## Technologies Used
 - HTML
 - CSS
+
+  Live Demo : https://netflixxxclone.netlify.app/
