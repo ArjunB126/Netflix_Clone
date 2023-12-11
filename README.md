@@ -22,3 +22,6 @@ This project is a Netflix clone created with HTML and CSS. It aims to replicate 
 2. Navigate to the project directory
 3. Open `index.html` in your preferred web browser.
 
+
+## Usage
+ You can interact with the interface just like you would on the actual Netflix website. Feel free to customize and enhance the project according to your preferences.
